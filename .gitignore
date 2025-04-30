@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Debug files
+debug-*.html
+error-log.txt
+failed-articles.json
+parsing-stats.json
+
+# Output files
+*.json
+*.csv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
