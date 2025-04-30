@@ -22,3 +22,4 @@ parsing-stats.json
 # OS
 .DS_Store
 Thumbs.db 
+output/
