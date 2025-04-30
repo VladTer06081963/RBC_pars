@@ -8,9 +8,7 @@ failed-articles.json
 parsing-stats.json
 
 # Output files
-# Exclude package.json
-!package.json
-*.json
+
 *.csv
 
 # Environment variables
